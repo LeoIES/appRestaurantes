@@ -1,0 +1,7 @@
+{
+  "name": "appRestaurantes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
